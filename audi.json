@@ -1,0 +1,73 @@
+[
+    {
+      "marca": "AUDI",
+      "modelo": "A3",
+      "motor": "1.4 TFSI / 1.6 / 1.8 / 2.0",
+      "capacidade": 4.3,
+      "produto": 4
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "A4",
+      "motor": "1.8 / 2.0 / 3.0",
+      "capacidade": 5.0,
+      "produto": 6
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "A4 AVANT",
+      "motor": "1.8 / 2.0 / 3.0",
+      "capacidade": 5.0,
+      "produto": 6
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "A4 ALLROAD",
+      "motor": "2.0 / 3.0",
+      "capacidade": 5.5,
+      "produto": 8
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "A5",
+      "motor": "2.0 / 3.0",
+      "capacidade": 5.5,
+      "produto": 8
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "A6",
+      "motor": "2.0 / 2.4 / 2.7 / 3.0 / 4.2",
+      "capacidade": 6.5,
+      "produto": 8
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "A6 AVANT",
+      "motor": "2.0 / 2.4 / 2.7 / 3.0 / 4.2",
+      "capacidade": 6.5,
+      "produto": 8
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "A7",
+      "motor": "2.0 / 2.8 / 3.0 / 4.2",
+      "capacidade": 7.0,
+      "produto": 10
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "A8",
+      "motor": "2.8 / 3.0 / 4.2",
+      "capacidade": 8.0,
+      "produto": 10
+    },
+    {
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "motor": "1.4 / 2.0",
+      "capacidade": 5.0,
+      "produto": 6
+    }
+  ]
+  
