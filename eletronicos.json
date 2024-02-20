@@ -1,7 +1,7 @@
 {
-    "Smartphone":"Preço: R$ 1200,00":"Marca: Samsung",
-    "Tablet DL":"Preço: R$ 800,00":"Marca: Multilaser",
-    "TV":"Preço: R$ 3500,00":"Marca: LG",
-    "Freezer Brastemp":"Preço: R$ 4125,00":"Cor: Azul",
-    "Forno Microondas":"Preço: R$ 550,00":"Marca: azul"
+    "Smartphone":{"Preço: R$ 1200,00":"Marca: Samsung"},
+    "Tablet DL":{"Preço: R$ 800,00":"Marca: Multilaser"},
+    "TV":{"Preço: R$ 3500,00":"Marca: LG"},
+    "Freezer Brastemp":{"Preço: R$ 4125,00":"Cor: Azul"},
+    "Forno Microondas":{"Preço: R$ 550,00":"Marca: azul"}
 }
