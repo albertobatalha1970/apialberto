@@ -5,4 +5,4 @@ url = "https://raw.githubusercontent.com/albertobatalha1970/apialberto/main/elet
 responses = requests.get(url)
 responses = responses.json()
 print("O preço do Tablet é: ")
-print(responses['Tablet DL']['Preço'])
+print(responses['Smartphone']['Preço'])
